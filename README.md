@@ -35,7 +35,6 @@ python3 corsight.py -i targets.txt -t 500 -o konghq_hunt
 ### Install & Run (3 seconds)
 
 ```bash
-# Clone + run
 git clone https://github.com/INTELEON404/CORSIGHT.git && cd CORSIGHT
 python3 corsight.py -i targets.txt
 ```
