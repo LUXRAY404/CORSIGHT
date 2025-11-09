@@ -79,7 +79,7 @@ JACKPOT! CORS VULN!
   origin  → https://abc123xyz.konghq.tech
   ACAO    → https://abc123xyz.konghq.tech
   ACAC    → true
-  HIGH → EXPLOITABLE!
+  HIGH    → EXPLOITABLE!
 ```
 
 **Files created:**
